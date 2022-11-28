@@ -1,8 +1,8 @@
 # Fil som Markdown format
 
 Lenke til noen prosjekt på github med tema Astro Pi
-Dette er lenke til tidligere prosjekter
-
+Dette er lenker til tidligere prosjekter.
+NB. Lenkene åpnes ikke i nytt vindu som om du lnsker det så bruk litt høyreklikk-magi.
 
 # 2018-2019
 Ingen deltakelse dette året
@@ -19,6 +19,7 @@ Gruppen kom helt til siste hinder og fikk sendt inn en god rapport.
 # 2021-2022
 Gruppen kom helt til siste hinder og fikk sendt inn en god rapport.
 * https://github.com/DaJMaN4/AstroPi-2021-2022
+* https://github.com/Smulee/AstroPi2022-TingTarT
 
 # 2022-2023
 Prosjektet er utenfor skolen, men elev er på skolen.
