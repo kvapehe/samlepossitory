@@ -10,6 +10,7 @@ Ingen deltakelse dette året
 # 2019-2020
 Her finnes det data i repository.
 * https://github.com/MatsAndT/Astro-pi-kvadda-19-20
+* <a href="https://github.com/MatsAndT/Astro-pi-kvadda-19-20" target="_blank">* https://github.com/MatsAndT/Astro-pi-kvadda-19-20</a>
  
 # 2020-2021
 Dette prosjektet ble dannet av en gruppe og gjennomført av en annen gruppe.
