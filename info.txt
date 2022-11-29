@@ -1,0 +1,30 @@
+git fra bånn.
+Du må ha en git-klient, f.eks. turtoise git, git bash, github-klient ...
+
+Skriv rett i fil her, eller ...
+…or create a new repository on the command line
+
+echo "# samlepossitory" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kvapehe/samlepossitory.git
+git push -u origin main
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/kvapehe/samlepossitory.git
+git branch -M main
+git push -u origin main
+
+https://github.com/kvapehe/samlepossitory.git
+
+ https://sorlandetsfagskole.zoom.us/j/84693011122?pwd=d3d1NzR2bUJnOFFaUlQwUisvVWFuZz09
+ 
+ 
+ Se på lenkerkapitlet og historikk, samt logg.
+ 
+ https://sorlandetsfagskole.zoom.us/s/84693011122?pwd=d3d1NzR2bUJnOFFaUlQwUisvVWFuZz09#success
+ 
+ 
